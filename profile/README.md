@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./storm-logo-banner.png" width="100%"/>
+  <img src="./storm-logo-bg.png" width="100%"/>
 </div>
 <br />
 <div align="center">
