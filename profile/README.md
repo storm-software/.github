@@ -12,7 +12,11 @@
 
 Storm Software is an open source software development organization and creator of Forecast, StormStack and StormCloud. 
 
-<h3 align="center">💻 Visit <a href="https://stormsoftware.org" target="_blank">stormsoftware.org</a> to stay up to date with this developer<br /></h3>
+
 
 Our mission is to make software development more accessible. 
 Our ideal future is one where anyone can create software without years of prior development experience serving as a barrier to entry. We hope to achieve this via LLMs, Generative AI, and intuitive, high-level data modeling/programming languagues.
+
+If this sounds interesting, and you would like to help us in creating the next generation of development tools, please reach out on our [website](https://stormsoftware.org/contact)!
+
+<h3 align="center">💻 Visit <a href="https://stormsoftware.org" target="_blank">stormsoftware.org</a> to stay up to date with this developer<br /></h3><br />
