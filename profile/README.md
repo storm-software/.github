@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/logo-banner.png" alt="Storm Software" width="100%"/>
+  <img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/storm-banner.gif" alt="Storm Software" width="100%"/>
 </div>
 <br />
 <div align="center">
