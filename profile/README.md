@@ -10,13 +10,22 @@
 </div>
 <br />
 
-Storm Software is an open source software development organization and creator of Forecast, StormStack and StormCloud. 
-
-
+Storm Software is an open source software development organization and creator of Acidic, Storm Stack and Storm Cloud. 
 
 Our mission is to make software development more accessible. 
 Our ideal future is one where anyone can create software without years of prior development experience serving as a barrier to entry. We hope to achieve this via LLMs, Generative AI, and intuitive, high-level data modeling/programming languagues.
 
+<h3 align="center">💻 Visit <a href="https://stormsoftware.org" target="_blank">stormsoftware.org</a> to stay up to date with this developer<br /></h3><br />
+
+## Repositories
+This GitHub organization contains repos that are officially maintained by [Storm Software](https://stormsoftware.org):
+
+- The [Acidic Engine Langauge Tools](https://github.com/storm-software/acidic) repository contains a plugin based package to generate full-stack code and various other artifacts based on an initial user-defined schema.
+- The [Storm Stack](https://github.com/storm-software/storm-stack) repository contains a full-stack framework/assorted helper libraries to assist in modern development. 
+- The [documentation](https://stormsoftware.org/docs) for all Storm Software products is located in the [`/docs`](https://github.com/prisma/docs) directory of each repository.
+
+## Join us
+
 If this sounds interesting, and you would like to help us in creating the next generation of development tools, please reach out on our [website](https://stormsoftware.org/contact)!
 
-<h3 align="center">💻 Visit <a href="https://stormsoftware.org" target="_blank">stormsoftware.org</a> to stay up to date with this developer<br /></h3><br />
+
