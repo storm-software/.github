@@ -22,7 +22,7 @@ This GitHub organization contains repos that are officially maintained by [Storm
 
 - The [Acidic Engine Langauge Tools](https://github.com/storm-software/acidic) repository contains a plugin based package to generate full-stack code and various other artifacts based on an initial user-defined schema.
 - The [Storm Stack](https://github.com/storm-software/storm-stack) repository contains a full-stack framework/assorted helper libraries to assist in modern development. 
-- The [documentation](https://stormsoftware.org/docs) for all Storm Software products is located in the [`/docs`](https://github.com/prisma/docs) directory of each repository.
+- The [documentation](https://stormsoftware.org/docs) for all Storm Software products is located in the `/docs` directory of each repository.
 
 ## Join us
 
