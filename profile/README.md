@@ -10,10 +10,10 @@
 </div>
 <br />
 
-Storm Software is an open source software development organization and creator of Acidic, Storm Stack and Storm Cloud. 
+Storm Software is an open-source software development organization and the creator of Acidic, Storm Stack, and Storm Cloud.
 
-Our mission is to make software development more accessible. 
-Our ideal future is one where anyone can create software without years of prior development experience serving as a barrier to entry. We hope to achieve this via LLMs, Generative AI, and intuitive, high-level data modeling/programming languagues.
+Our mission is to make software development more accessible. Our ideal future is one where anyone can create software without years of prior development experience serving as a barrier to entry. We hope to achieve this via LLMs, generative AI, and intuitive, high-level data modeling and programming languages.
+
 
 <h3 align="center">💻 Visit <a href="https://stormsoftware.org" target="_blank">stormsoftware.org</a> to stay up to date with this developer<br /></h3><br />
 
