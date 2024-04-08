@@ -3,7 +3,19 @@
 </div>
 <br />
 <div align="center">
-<a href="https://stormsoftware.com" target="_blank">Website</a>  |  <a href="https://stormsoftware.com/contact" target="_blank">Contact</a>  |  <a href="https://discord.gg/MQ6YVzakM5" target="_blank">Discord</a>  |  <a href="https://linkedin.com/in/patrick-sullivan-865526b0" target="_blank">LinkedIn</a>  |  <a href="https://medium.com/storm-software" target="_blank">Medium</a>  |  <a href="https://www.patreon.com/StormSoftware" target="_blank">Sponsorship</a>  |  <a href="https://keybase.io/sullivanp" target="_blank">OpenPGP Key</a>
+<a href="https://stormsoftware.com" target="_blank">Website</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://stormsoftware.com/contact" target="_blank">Contact</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://discord.gg/MQ6YVzakM5" target="_blank">Discord</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://linkedin.com/in/patrick-sullivan-865526b0" target="_blank">LinkedIn</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://medium.com/storm-software" target="_blank">Medium</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://www.patreon.com/StormSoftware" target="_blank">Sponsorship</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://keybase.io/sullivanp" target="_blank">OpenPGP Key</a>
 </div>
 <div align="center">
 <b>Fingerprint:</b> 1BD2 7192 7770 2549 F4C9 F238 E6AD C420 DA5C 4C2D
@@ -15,7 +27,8 @@ Storm Software is an open-source software development organization and the creat
 Our mission is to make software development more accessible. Our ideal future is one where anyone can create software without years of prior development experience serving as a barrier to entry. We hope to achieve this via LLMs, generative AI, and intuitive, high-level data modeling and programming languages.
 
 
-<h3 align="center">💻 Visit <a href="https://stormsoftware.com" target="_blank">stormsoftware.com</a> to stay up to date with this developer<br /></h3><br />
+<h3 align="center">💻 Visit <a href="https://stormsoftware.com" target="_blank">stormsoftware.com</a> to stay up to date with this developer</h3>
+<br />
 
 ## Repositories
 This GitHub organization contains repos that are officially maintained by [Storm Software](https://stormsoftware.com):
