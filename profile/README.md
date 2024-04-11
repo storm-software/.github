@@ -1,11 +1,12 @@
 <div align="center">
   <img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/storm-banner.gif" alt="Storm Software" width="100%"/>
 </div>
-<br />
+
 <div align="center">
+<h4>
 <a href="https://stormsoftware.com" target="_blank">Website</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://stormsoftware.com/contact" target="_blank">Contact</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://stormsoftware.com/contact" target="_blank">Contact</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://discord.gg/MQ6YVzakM5" target="_blank">Discord</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
@@ -16,11 +17,16 @@
 <a href="https://www.patreon.com/StormSoftware" target="_blank">Sponsorship</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://keybase.io/sullivanp" target="_blank">OpenPGP Key</a>
+</h4>
 </div>
+  
 <div align="center">
+<h4>
 <b>Fingerprint:</b> 1BD2 7192 7770 2549 F4C9 F238 E6AD C420 DA5C 4C2D
+</h4>
 </div>
-<br />
+
+<hr />
 
 Storm Software is an open-source software development organization and the creator of Acidic, Storm Stack, and Storm Cloud.
 
@@ -39,6 +45,6 @@ This GitHub organization contains repos that are officially maintained by [Storm
 
 ## Join us
 
-If this sounds interesting, and you would like to help us in creating the next generation of development tools, please reach out on our [website](https://stormsoftware.com/contact)!
+If this sounds interesting, and you would like to help us in creating the next generation of development tools, please reach out on our [website](https://stormsoftware.com/contact) or join our [Slack](https://join.slack.com/t/storm-software/shared_invite/zt-2gsmk04hs-i6yhK_r6urq0dkZYAwq2pA)!
 
 
