@@ -10,7 +10,7 @@
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://discord.gg/MQ6YVzakM5" target="_blank">Discord</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://linkedin.com/in/patrick-sullivan-865526b0" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/pat-sullivan-dev/" target="_blank">LinkedIn</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://medium.com/storm-software" target="_blank">Medium</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
