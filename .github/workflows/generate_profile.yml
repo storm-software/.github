@@ -35,9 +35,7 @@ jobs:
           commit-message: "Update Profile README with new repositories"
           committer: "Stormie-Bot <support@stormsoftware.com>"
           author: "Stormie-Bot <support@stormsoftware.com>"
-          signoff: false
-          branch: main
-          branch-suffix: timestamp
+          signoff: true
           delete-branch: true
           base: "main"
           title: "Update the Profile README with new repositories"
@@ -50,3 +48,13 @@ jobs:
             [1]: https://dev.to/tungbq/github-create-your-own-repository-landscape-16i5
             [2]: https://github.com/Stormie-Bot
           labels: "update, automated-pr"
+
+      - name: Send Discord notification - Deployment successful
+        uses: Ilshidur/action-discord@master
+        with:
+          args: "Successfully updated GitHub profile's repositories list - #${{ github.run_number }}"
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.STORM_BOT_DISCORD_WEBHOOK }}
+          DISCORD_USERNAME: Stormie-Bot
+          DISCORD_AVATAR: "https://pub-761b436209f44a4d886487c917806c08.r2.dev/icon-stormie.png"
+          DISCORD_EMBEDS: '[{"title": "Successfully updated the list of repositories in GitHub profile!", "description": "Update of repository list in Storm Softwares ${{ github.repository }} repository has finished successfully - #${{ github.run_number }}", "thumbnail": { "url": "https://pub-761b436209f44a4d886487c917806c08.r2.dev/icon-fill.png" }, "image": { "url": "https://pub-761b436209f44a4d886487c917806c08.r2.dev/logo-fill.png" }, "author": { "name": "${{ github.actor }}", "url": "https://github.com/${{ github.actor }}", "icon_url": "https://avatars.githubusercontent.com/u/${{ github.actor_id }}?v=4" }, "fields": [ { "name": "Repository", "value": "${{ github.repository }}" }, { "name": "Repository URL", "value": "${{ github.repositoryUrl }}" }, { "name": "Pipeline Status", "value": "Success" }], "color": 556891, "timestamp": "${{ github.event.repository.updated_at }}", "url": "${{ github.event.pull_request.html_url || github.event.head_commit.url }}", "footer": { "text": "Click here to see the full workflow details: ${{ github.event.pull_request.html_url || github.event.head_commit.url }}", "icon_url": "https://pub-761b436209f44a4d886487c917806c08.r2.dev/icon-fill.png" }}]'
