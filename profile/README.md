@@ -13,28 +13,28 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 
 ### 1. [**storm-stack**](https://github.com/storm-software/storm-stack)
 
-null
+⚡The Storm Stack monorepo contains utility applications, tools, and various libraries to create modern and scalable web applications.
 
 <a href="https://github.com/storm-software/storm-stack/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/storm-software/storm-stack?style=for-the-badge&color=1fb2a6"/></a>
 
 
 ### 2. [**acidic**](https://github.com/storm-software/acidic)
 
-null
+🧪 Acidic is a modeling tool that can be used to describe and generate code for API end points, database tables, type definitions, client components, and so much more!
 
 <a href="https://github.com/storm-software/acidic/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/storm-software/acidic?style=for-the-badge&color=1fb2a6"/></a>
 
 
 ### 3. [**cyclone-ui**](https://github.com/storm-software/cyclone-ui)
 
-null
+🌀 A repository containing the core front-end components used by Storm Software across many platforms
 
 <a href="https://github.com/storm-software/cyclone-ui/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/storm-software/cyclone-ui?style=for-the-badge&color=1fb2a6"/></a>
 
 
 ### 4. [**storm-ops**](https://github.com/storm-software/storm-ops)
 
-null
+⚡The Storm-Ops monorepo contains various configurations and tools used to manage the Storm Software repositories
 
 <a href="https://github.com/storm-software/storm-ops/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/storm-software/storm-ops?style=for-the-badge&color=1fb2a6"/></a>
 
@@ -47,6 +47,6 @@ Join us on [**Discord**](https://discord.gg/MQ6YVzakM5) to chat with the team, r
 
 If this sounds interesting, and you would like to help us in creating the next generation of development tools, please reach out on our [**website**](https://stormsoftware.com/contact) or join our [**Slack**](https://join.slack.com/t/storm-software/shared_invite/zt-2gsmk04hs-i6yhK_r6urq0dkZYAwq2pA) channel!
 
-<div align="center"><a href="https://stormsoftware.com" target="_blank"><img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/icon-fill.png" alt="Storm Software" width="225px"/></a></div>
+<div align="center"><a href="https://stormsoftware.com" target="_blank"><img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/icon-fill.png" alt="Storm Software" width="200px"/></a></div>
 
 
