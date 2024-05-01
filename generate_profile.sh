@@ -17,10 +17,9 @@ generate_repo_list() {
     # Only get base repo name, execlude the username
     repo_base_name=$(basename $repo_name)
 
-    local repo_hyperlink="<a href=\"https://github.com/$repo_name\">$repo_name</a>"
     local stars="<a href=\"https://github.com/$repo_name/stargazers\"><img alt=\"GitHub Repo stars\" src=\"https://img.shields.io/github/stars/$repo_name?style=for-the-badge&color=1fb2a6\"/></a>"
 
-    echo "### $index. [$repo_base_name]($repo_hyperlink)" >>profile/README.md
+    echo "### $index. [$repo_base_name](https://github.com/$repo_name)" >>profile/README.md
     echo "" >>profile/README.md
     echo "$description" >>profile/README.md
     echo "" >>profile/README.md
