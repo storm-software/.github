@@ -21,6 +21,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Add permissions to generate_profile.sh
+        run: chmod a=rwx ./generate_profile.sh
+
       - name: Generate Profile
         run: ./generate_profile.sh repository_list.txt
 
@@ -32,6 +35,10 @@ jobs:
           commit-message: "Update Profile README with new repositories"
           committer: "Stormie-Bot <support@stormsoftware.com>"
           author: "Stormie-Bot <support@stormsoftware.com>"
+          signoff: false
+          branch: main
+          branch-suffix: timestamp
+          delete-branch: true
           base: "main"
           title: "Update the Profile README with new repositories"
           body: |
