@@ -7,6 +7,7 @@ Storm Software is an open-source software development organization and the creat
 Our mission is to make software development more accessible. Our ideal future is one where anyone can create software without years of prior development experience serving as a barrier to entry. We hope to achieve this via LLMs, generative AI, and intuitive, high-level data modeling and programming languages.
 
 <br />
+
 ## <img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/repositories-text.svg" alt="Repositories" height="40px"/>
 This GitHub organization contains repos that are officially maintained by [**Storm Software**](https://stormsoftware.com):
 
@@ -42,6 +43,7 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 For the full list of repositories, please [**click here**](https://github.com/storm-software?tab=repositories&q=&type=&language=&sort=stargazers).
 
 <br />
+
 ## <img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/join-us-text.svg" alt="Join us" height="40px"/>
 Join us on [**Discord**](https://discord.gg/MQ6YVzakM5) to chat with the team, receive release notifications, ask questions, and get involved.
 
