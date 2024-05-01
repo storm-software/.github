@@ -36,10 +36,9 @@ echo "" >>profile/README.md
 echo "Storm Software is an open-source software development organization and the creator of Acidic, Storm Stack, and Storm Cloud." >>profile/README.md
 echo "" >>profile/README.md
 echo "Our mission is to make software development more accessible. Our ideal future is one where anyone can create software without years of prior development experience serving as a barrier to entry. We hope to achieve this via LLMs, generative AI, and intuitive, high-level data modeling and programming languages." >>profile/README.md
+echo "<br />"
 echo "" >>profile/README.md
-echo "<h3 align=\"center\">💻 Visit <a href=\"https://stormsoftware.com\" target=\"_blank\">stormsoftware.com</a> to stay up to date with this developer</h3>" >>profile/README.md
-echo "" >>profile/README.md
-echo "## Repositories" >>profile/README.md
+echo "## <img src=\"https://pub-761b436209f44a4d886487c917806c08.r2.dev/repositories-text.svg\" alt=\"Repositories\" height=\"45px\"/>" >>profile/README.md
 echo "This GitHub organization contains repos that are officially maintained by [**Storm Software**](https://stormsoftware.com):" >>profile/README.md
 echo "" >>profile/README.md
 
@@ -69,11 +68,14 @@ echo "" >>profile/README.md
 echo "For the full list of repositories, please [**click here**](https://github.com/storm-software?tab=repositories&q=&type=&language=&sort=stargazers)." >>profile/README.md
 
 echo "" >>profile/README.md
-echo "## Join us" >>profile/README.md
+echo "## <img src=\"https://pub-761b436209f44a4d886487c917806c08.r2.dev/join-us-text.svg\" alt=\"Join us\" height=\"45px\"/>" >>profile/README.md
 echo "Join us on [**Discord**](https://discord.gg/MQ6YVzakM5) to chat with the team, receive release notifications, ask questions, and get involved." >>profile/README.md
 echo "" >>profile/README.md
 echo "If this sounds interesting, and you would like to help us in creating the next generation of development tools, please reach out on our [**website**](https://stormsoftware.com/contact) or join our [**Slack**](https://join.slack.com/t/storm-software/shared_invite/zt-2gsmk04hs-i6yhK_r6urq0dkZYAwq2pA) channel!" >>profile/README.md
 echo "" >>profile/README.md
 echo "<div align=\"center\"><a href=\"https://stormsoftware.com\" target=\"_blank\"><img src=\"https://pub-761b436209f44a4d886487c917806c08.r2.dev/icon-fill.png\" alt=\"Storm Software\" width=\"200px\"/></a></div>" >>profile/README.md
+echo "<div align=\"center\"><a href=\"https://stormsoftware.com\" target=\"_blank\"><img src=\"https://pub-761b436209f44a4d886487c917806c08.r2.dev/visit-us-text.svg\" alt=\"Visit us at stormsoftware.com\" height=\"75px\"/></a></div>" >>profile/README.md
 echo "" >>profile/README.md
 echo "" >>profile/README.md
+
+
