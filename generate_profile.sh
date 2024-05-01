@@ -39,6 +39,7 @@ echo "Our mission is to make software development more accessible. Our ideal fut
 echo "<br />"
 echo "" >>profile/README.md
 echo "<br />" >>profile/README.md
+echo "" >>profile/README.md
 echo "## <img src=\"https://pub-761b436209f44a4d886487c917806c08.r2.dev/repositories-text.svg\" alt=\"Repositories\" height=\"40px\"/>" >>profile/README.md
 echo "This GitHub organization contains repos that are officially maintained by [**Storm Software**](https://stormsoftware.com):" >>profile/README.md
 echo "" >>profile/README.md
@@ -70,6 +71,7 @@ echo "For the full list of repositories, please [**click here**](https://github.
 
 echo "" >>profile/README.md
 echo "<br />" >>profile/README.md
+echo "" >>profile/README.md
 echo "## <img src=\"https://pub-761b436209f44a4d886487c917806c08.r2.dev/join-us-text.svg\" alt=\"Join us\" height=\"40px\"/>" >>profile/README.md
 echo "Join us on [**Discord**](https://discord.gg/MQ6YVzakM5) to chat with the team, receive release notifications, ask questions, and get involved." >>profile/README.md
 echo "" >>profile/README.md
