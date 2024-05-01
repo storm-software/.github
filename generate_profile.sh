@@ -19,7 +19,7 @@ generate_repo_list() {
 
     local stars="<a href=\"https://github.com/$repo_name/stargazers\"><img alt=\"GitHub Repo stars\" src=\"https://img.shields.io/github/stars/$repo_name?style=for-the-badge&color=1fb2a6\"/></a>"
 
-    echo "### $index. [$repo_base_name](https://github.com/$repo_name)" >>profile/README.md
+    echo "### $index. [**$repo_base_name**](https://github.com/$repo_name)" >>profile/README.md
     echo "" >>profile/README.md
     echo "$description" >>profile/README.md
     echo "" >>profile/README.md
@@ -40,7 +40,7 @@ echo "" >>profile/README.md
 echo "<h3 align=\"center\">💻 Visit <a href=\"https://stormsoftware.com\" target=\"_blank\">stormsoftware.com</a> to stay up to date with this developer</h3>" >>profile/README.md
 echo "" >>profile/README.md
 echo "## Repositories" >>profile/README.md
-echo "This GitHub organization contains repos that are officially maintained by [Storm Software](https://stormsoftware.com):" >>profile/README.md
+echo "This GitHub organization contains repos that are officially maintained by [**Storm Software**](https://stormsoftware.com):" >>profile/README.md
 echo "" >>profile/README.md
 
 
@@ -72,6 +72,6 @@ echo "" >>profile/README.md
 echo "## Join us" >>profile/README.md
 echo "Join us on [**Discord**](https://discord.gg/MQ6YVzakM5) to chat with the team, receive release notifications, ask questions, and get involved." >>profile/README.md
 echo "" >>profile/README.md
-echo "If this sounds interesting, and you would like to help us in creating the next generation of development tools, please reach out on our [website](https://stormsoftware.com/contact) or join our [Slack](https://join.slack.com/t/storm-software/shared_invite/zt-2gsmk04hs-i6yhK_r6urq0dkZYAwq2pA)!" >>profile/README.md
+echo "If this sounds interesting, and you would like to help us in creating the next generation of development tools, please reach out on our [**website**](https://stormsoftware.com/contact) or join our [**Slack**](https://join.slack.com/t/storm-software/shared_invite/zt-2gsmk04hs-i6yhK_r6urq0dkZYAwq2pA) channel!" >>profile/README.md
 echo "" >>profile/README.md
 echo "" >>profile/README.md
