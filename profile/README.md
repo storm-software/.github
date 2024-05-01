@@ -6,7 +6,8 @@ Storm Software is an open-source software development organization and the creat
 
 Our mission is to make software development more accessible. Our ideal future is one where anyone can create software without years of prior development experience serving as a barrier to entry. We hope to achieve this via LLMs, generative AI, and intuitive, high-level data modeling and programming languages.
 
-## <img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/repositories-text.svg" alt="Repositories" height="45px"/>
+<br />
+## <img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/repositories-text.svg" alt="Repositories" height="40px"/>
 This GitHub organization contains repos that are officially maintained by [**Storm Software**](https://stormsoftware.com):
 
 ### 1. [**storm-stack**](https://github.com/storm-software/storm-stack)
@@ -40,12 +41,14 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 
 For the full list of repositories, please [**click here**](https://github.com/storm-software?tab=repositories&q=&type=&language=&sort=stargazers).
 
-## <img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/join-us-text.svg" alt="Join us" height="45px"/>
+<br />
+## <img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/join-us-text.svg" alt="Join us" height="40px"/>
 Join us on [**Discord**](https://discord.gg/MQ6YVzakM5) to chat with the team, receive release notifications, ask questions, and get involved.
 
 If this sounds interesting, and you would like to help us in creating the next generation of development tools, please reach out on our [**website**](https://stormsoftware.com/contact) or join our [**Slack**](https://join.slack.com/t/storm-software/shared_invite/zt-2gsmk04hs-i6yhK_r6urq0dkZYAwq2pA) channel!
 
 <div align="center"><a href="https://stormsoftware.com" target="_blank"><img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/icon-fill.png" alt="Storm Software" width="200px"/></a></div>
-<div align="center"><a href="https://stormsoftware.com" target="_blank"><img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/visit-us-text.svg" alt="Visit us at stormsoftware.com" height="75px"/></a></div>
+
+<div align="center"><a href="https://stormsoftware.com" target="_blank"><img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/visit-us-text.svg" alt="Visit us at stormsoftware.com" height="90px"/></a></div>
 
 
