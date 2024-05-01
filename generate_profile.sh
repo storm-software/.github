@@ -29,7 +29,7 @@ generate_repo_list() {
 }
 
 # Start README file with header
-echo "<div align=\"center\"><a href=\"https://stormsoftware.com\" target=\"_blank\"><img src=\"https://pub-761b436209f44a4d886487c917806c08.r2.dev/storm-banner.gif\" alt=\"Storm Software\" width=\"100%\"/></a></div>" >profile/README.md
+echo "<div align=\"center\"><img src=\"https://pub-761b436209f44a4d886487c917806c08.r2.dev/storm-banner.gif\" alt=\"Storm Software\" width=\"100%\"/></div>" >profile/README.md
 echo "" >>profile/README.md
 echo "<br /><div align=\"center\"><b><a href=\"https://stormsoftware.com\" target=\"_blank\">Website</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href=\"https://stormsoftware.com/contact\" target=\"_blank\">Contact</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href=\"https://discord.gg/MQ6YVzakM5\" target=\"_blank\">Discord</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href=\"https://www.linkedin.com/in/pat-sullivan-dev/\" target=\"_blank\">LinkedIn</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href=\"https://medium.com/storm-software\" target=\"_blank\">Medium</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href=\"https://www.patreon.com/StormSoftware\" target=\"_blank\">Sponsorship</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href=\"https://keybase.io/sullivanp\" target=\"_blank\">OpenPGP Key</a></b></div><br /><div align="center"><b>Fingerprint:</b> 1BD2 7192 7770 2549 F4C9 F238 E6AD C420 DA5C 4C2D</div><hr />" >>profile/README.md
 echo "" >>profile/README.md
@@ -74,6 +74,6 @@ echo "Join us on [**Discord**](https://discord.gg/MQ6YVzakM5) to chat with the t
 echo "" >>profile/README.md
 echo "If this sounds interesting, and you would like to help us in creating the next generation of development tools, please reach out on our [**website**](https://stormsoftware.com/contact) or join our [**Slack**](https://join.slack.com/t/storm-software/shared_invite/zt-2gsmk04hs-i6yhK_r6urq0dkZYAwq2pA) channel!" >>profile/README.md
 echo "" >>profile/README.md
-echo "<div align=\"center\"><a href=\"https://stormsoftware.com\" target=\"_blank\"><img src=\"https://pub-761b436209f44a4d886487c917806c08.r2.dev/logo-fill.svg\" alt=\"Storm Software\" width=\"300px\"/></a></div>" >profile/README.md
+echo "<div align=\"center\"><a href=\"https://stormsoftware.com\" target=\"_blank\"><img src=\"https://pub-761b436209f44a4d886487c917806c08.r2.dev/logo-fill.svg\" alt=\"Storm Software\" width=\"300px\"/></a></div>" >>profile/README.md
 echo "" >>profile/README.md
 echo "" >>profile/README.md
