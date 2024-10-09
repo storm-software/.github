@@ -1,8 +1,8 @@
 <div align="center"><img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/storm-banner.gif" alt="Storm Software" width="100%"/></div>
 
-<br /><div align="center"><b><a href="https://stormsoftware.com" target="_blank">Website</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://stormsoftware.com/contact" target="_blank">Contact</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://discord.gg/MQ6YVzakM5" target="_blank">Discord</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://www.linkedin.com/in/pat-sullivan-dev/" target="_blank">LinkedIn</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://medium.com/storm-software" target="_blank">Medium</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://www.patreon.com/StormSoftware" target="_blank">Sponsorship</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://keybase.io/sullivanp" target="_blank">OpenPGP Key</a></b></div><br /><div align=center><b>Fingerprint:</b> 1BD2 7192 7770 2549 F4C9 F238 E6AD C420 DA5C 4C2D</div><hr />
+<br /><div align="center"><b><a href="https://stormsoftware.com" target="_blank">Website</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://stormsoftware.com/contact" target="_blank">Contact</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://discord.gg/MQ6YVzakM5" target="_blank">Discord</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://t.me/storm_software" target="_blank">Telegram</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://medium.com/storm-software" target="_blank">Medium</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://www.patreon.com/StormSoftware" target="_blank">Sponsorship</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://keybase.io/sullivanp" target="_blank">OpenPGP Key</a></b></div><br /><div align=center><b>Fingerprint:</b> 1BD2 7192 7770 2549 F4C9 F238 E6AD C420 DA5C 4C2D</div><hr />
 
-Storm Software is an open-source software development organization and the creator of Acidic, Storm Stack, and Storm Cloud.
+Storm Software is an open source software development organization and the creator of Acidic, Storm Stack, and Storm Cloud.
 
 Our mission is to make software development more accessible. Our ideal future is one where anyone can create software without years of prior development experience serving as a barrier to entry. We hope to achieve this via LLMs, generative AI, and intuitive, high-level data modeling and programming languages.
 
@@ -27,20 +27,20 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 
 ### 3. [**cyclone-ui**](https://github.com/storm-software/cyclone-ui)
 
-🌀 A repository containing Tamagui based design components used by Storm Software. Like Shadcn UI, the components are copied into other repositories via the Cyclone CLI.
+🌀 Tamagui Web/Mobile universal components + Shadcn UI's style of distributing code - Cyclone UI components are copied into your repositories via the CLI tool.
 
 <a href="https://github.com/storm-software/cyclone-ui/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/storm-software/cyclone-ui?style=for-the-badge&color=1fb2a6"/></a>
 
 
 ### 4. [**storm-ops**](https://github.com/storm-software/storm-ops)
 
-⚡The Storm-Ops monorepo contains various configurations and tools used to manage the Storm Software repositories
+⚙️ The Storm-Ops monorepo contains various configurations and tools used to manage the Storm Software repositories
 
 <a href="https://github.com/storm-software/storm-ops/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/storm-software/storm-ops?style=for-the-badge&color=1fb2a6"/></a>
 
 
 
-For the full list of repositories, please [**click here**](https://github.com/storm-software?tab=repositories&q=&type=&language=&sort=stargazers).
+For the full list of repositories, please [**click here**](https://github.com/orgs/storm-software/repositories).
 
 <br />
 
