@@ -14,7 +14,7 @@ generate_repo_list() {
     local repo_name="$2"
     local description="$3"
 
-    # Only get base repo name, execlude the username
+    # Only get base repo name, exclude the username
     repo_base_name=$(basename $repo_name)
 
     local stars="<a href=\"https://github.com/$repo_name/stargazers\"><img alt=\"GitHub Repo stars\" src=\"https://img.shields.io/github/stars/$repo_name?style=for-the-badge&color=1fb2a6\"/></a>"
