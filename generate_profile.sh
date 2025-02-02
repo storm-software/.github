@@ -3,7 +3,7 @@
 REPOSITORY_LIST=$1
 
 if [ -z $REPOSITORY_LIST ]; then
-    echo "ERROR: epository list is empty!"
+    echo "ERROR: repository list is empty!"
     echo "Usage: $0 <repository_list_path>"
     exit 1
 fi
@@ -19,7 +19,7 @@ generate_repo_list() {
 
     local stars="<a href=\"https://github.com/$repo_name/stargazers\"><img alt=\"GitHub Repo stars\" src=\"https://img.shields.io/github/stars/$repo_name?style=for-the-badge&color=1fb2a6\"/></a>"
 
-    echo "### $index. [**$repo_base_name**](https://github.com/$repo_name)" >>profile/README.md
+    echo "### [**$repo_base_name**](https://github.com/$repo_name)" >>profile/README.md
     echo "" >>profile/README.md
     echo "$description" >>profile/README.md
     echo "" >>profile/README.md
