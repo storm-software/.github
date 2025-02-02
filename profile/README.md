@@ -11,28 +11,35 @@ Our mission is to make software development more accessible. Our ideal future is
 ## <img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/repositories-text.svg" alt="Repositories" height="40px"/>
 This GitHub organization contains repos that are officially maintained by [**Storm Software**](https://stormsoftware.com):
 
-### 1. [**storm-stack**](https://github.com/storm-software/storm-stack)
+### [**storm-stack**](https://github.com/storm-software/storm-stack)
 
 ⚡The Storm Stack monorepo contains utility applications, tools, and various libraries to create modern and scalable web applications.
 
 <a href="https://github.com/storm-software/storm-stack/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/storm-software/storm-stack?style=for-the-badge&color=1fb2a6"/></a>
 
 
-### 2. [**acidic**](https://github.com/storm-software/acidic)
-
-🧪 Acidic is a modeling tool that can be used to describe and generate code for API end points, database tables, type definitions, client components, and so much more!
-
-<a href="https://github.com/storm-software/acidic/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/storm-software/acidic?style=for-the-badge&color=1fb2a6"/></a>
-
-
-### 3. [**cyclone-ui**](https://github.com/storm-software/cyclone-ui)
+### [**cyclone-ui**](https://github.com/storm-software/cyclone-ui)
 
 🌀 Tamagui Web/Mobile universal components + Shadcn UI's style of distributing code - Cyclone UI components are copied into your repositories via the CLI tool.
 
 <a href="https://github.com/storm-software/cyclone-ui/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/storm-software/cyclone-ui?style=for-the-badge&color=1fb2a6"/></a>
 
 
-### 4. [**storm-ops**](https://github.com/storm-software/storm-ops)
+### [**stryke**](https://github.com/storm-software/stryke)
+
+🌩️ A repository containing TypeScript utility packages used by Storm Software
+
+<a href="https://github.com/storm-software/stryke/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/storm-software/stryke?style=for-the-badge&color=1fb2a6"/></a>
+
+
+### [**acidic**](https://github.com/storm-software/acidic)
+
+🧪 Acidic is a modeling tool that can be used to describe and generate code for API end points, database tables, type definitions, client components, and so much more!
+
+<a href="https://github.com/storm-software/acidic/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/storm-software/acidic?style=for-the-badge&color=1fb2a6"/></a>
+
+
+### [**storm-ops**](https://github.com/storm-software/storm-ops)
 
 ⚙️ The Storm-Ops monorepo contains various configurations and tools used to manage the Storm Software repositories
 
