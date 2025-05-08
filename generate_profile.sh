@@ -23,9 +23,9 @@ generate_repo_list() {
     echo "" >>profile/README.md
     echo "$description" >>profile/README.md
     echo "" >>profile/README.md
-    echo "$stars" >>profile/README.md
-    echo "" >>profile/README.md
-    echo "" >>profile/README.md
+    # echo "$stars" >>profile/README.md
+    # echo "" >>profile/README.md
+    # echo "" >>profile/README.md
 }
 
 # Start README file with header
@@ -33,7 +33,7 @@ echo "<div align=\"center\"><img src=\"https://pub-761b436209f44a4d886487c917806
 echo "" >>profile/README.md
 echo "<br /><div align=\"center\"><b><a href=\"https://stormsoftware.com\" target=\"_blank\">Website</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href=\"https://stormsoftware.com/contact\" target=\"_blank\">Contact</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href=\"https://discord.gg/MQ6YVzakM5\" target=\"_blank\">Discord</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href=\"https://t.me/storm_software\" target=\"_blank\">Telegram</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href=\"https://medium.com/storm-software\" target=\"_blank\">Medium</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href=\"https://www.patreon.com/StormSoftware\" target=\"_blank\">Sponsorship</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href=\"https://keybase.io/sullivanp\" target=\"_blank\">OpenPGP Key</a></b></div><br /><div align="center"><b>Fingerprint:</b> 1BD2 7192 7770 2549 F4C9 F238 E6AD C420 DA5C 4C2D</div><hr />" >>profile/README.md
 echo "" >>profile/README.md
-echo "Storm Software is an open source software development organization and the creator of Acidic, Storm Stack, and Storm Cloud." >>profile/README.md
+echo "Storm Software is an open source software development organization and the creator of the Stryke utilities, Storm Stack, Cyclone UI, Acidic, and Storm Cloud." >>profile/README.md
 echo "" >>profile/README.md
 echo "Our mission is to make software development more accessible. Our ideal future is one where anyone can create software without years of prior development experience serving as a barrier to entry. We hope to achieve this via LLMs, generative AI, and intuitive, high-level data modeling and programming languages." >>profile/README.md
 echo "<br />"
