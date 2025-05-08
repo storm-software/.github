@@ -2,7 +2,7 @@
 
 <br /><div align="center"><b><a href="https://stormsoftware.com" target="_blank">Website</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://stormsoftware.com/contact" target="_blank">Contact</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://discord.gg/MQ6YVzakM5" target="_blank">Discord</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://t.me/storm_software" target="_blank">Telegram</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://medium.com/storm-software" target="_blank">Medium</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://www.patreon.com/StormSoftware" target="_blank">Sponsorship</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://keybase.io/sullivanp" target="_blank">OpenPGP Key</a></b></div><br /><div align=center><b>Fingerprint:</b> 1BD2 7192 7770 2549 F4C9 F238 E6AD C420 DA5C 4C2D</div><hr />
 
-Storm Software is an open source software development organization and the creator of Acidic, Storm Stack, and Storm Cloud.
+Storm Software is an open source software development organization and the creator of the Stryke utilities, Storm Stack, Cyclone UI, Acidic, and Storm Cloud.
 
 Our mission is to make software development more accessible. Our ideal future is one where anyone can create software without years of prior development experience serving as a barrier to entry. We hope to achieve this via LLMs, generative AI, and intuitive, high-level data modeling and programming languages.
 
@@ -13,38 +13,31 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 
 ### [**storm-stack**](https://github.com/storm-software/storm-stack)
 
-⚡The Storm Stack monorepo contains utility applications, tools, and various libraries to create modern and scalable web applications.
-
-<a href="https://github.com/storm-software/storm-stack/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/storm-software/storm-stack?style=for-the-badge&color=1fb2a6"/></a>
-
-
-### [**cyclone-ui**](https://github.com/storm-software/cyclone-ui)
-
-🌀 Tamagui Web/Mobile universal components + Shadcn UI's style of distributing code - Cyclone UI components are copied into your repositories via the CLI tool.
-
-<a href="https://github.com/storm-software/cyclone-ui/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/storm-software/cyclone-ui?style=for-the-badge&color=1fb2a6"/></a>
-
-
-### [**stryke**](https://github.com/storm-software/stryke)
-
-🌩️ A repository containing TypeScript utility packages used by Storm Software
-
-<a href="https://github.com/storm-software/stryke/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/storm-software/stryke?style=for-the-badge&color=1fb2a6"/></a>
-
+⚡ The Storm Stack monorepo contains utility applications, tools, and various libraries to create modern and scalable web applications.
 
 ### [**acidic**](https://github.com/storm-software/acidic)
 
 🧪 Acidic is a modeling tool that can be used to describe and generate code for API end points, database tables, type definitions, client components, and so much more!
 
-<a href="https://github.com/storm-software/acidic/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/storm-software/acidic?style=for-the-badge&color=1fb2a6"/></a>
+### [**cyclone-ui**](https://github.com/storm-software/cyclone-ui)
 
+🌀 Tamagui Web/Mobile universal components + Shadcn UI's style of distributing code - Cyclone UI components are copied into your repositories via the CLI tool.
+
+### [**stryke**](https://github.com/storm-software/stryke)
+
+🌩️ A repository containing TypeScript utility packages used by Storm Software
+
+### [**reaper**](https://github.com/storm-software/reaper)
+
+💀 A repository containing trading infrastructure, libraries, and applications used by Storm Software
+
+### [**flash-flood**](https://github.com/storm-software/flash-flood)
+
+💧  An experimental application for managing bulk blockchain operations 
 
 ### [**storm-ops**](https://github.com/storm-software/storm-ops)
 
 ⚙️ The Storm-Ops monorepo contains various configurations and tools used to manage the Storm Software repositories
-
-<a href="https://github.com/storm-software/storm-ops/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/storm-software/storm-ops?style=for-the-badge&color=1fb2a6"/></a>
-
 
 
 For the full list of repositories, please [**click here**](https://github.com/orgs/storm-software/repositories).
