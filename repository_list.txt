@@ -1,5 +1,7 @@
 storm-software/storm-stack
+storm-software/acidic
 storm-software/cyclone-ui
 storm-software/stryke
-storm-software/acidic
+storm-software/reaper
+storm-software/flash-flood
 storm-software/storm-ops
