@@ -13,7 +13,7 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 
 ### [**storm-stack**](https://github.com/storm-software/storm-stack)
 
-⚡ The Storm Stack monorepo contains utility applications, tools, and various libraries to create modern and scalable web applications.
+null
 
 ### [**acidic**](https://github.com/storm-software/acidic)
 
@@ -25,7 +25,7 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 
 ### [**stryke**](https://github.com/storm-software/stryke)
 
-🌩️ A repository containing TypeScript utility packages used by Storm Software
+null
 
 ### [**reaper**](https://github.com/storm-software/reaper)
 
