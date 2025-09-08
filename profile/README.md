@@ -13,31 +13,31 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 
 ### [**storm-stack**](https://github.com/storm-software/storm-stack)
 
-⚡ The Storm Stack monorepo contains utility applications, tools, and various libraries to create modern and scalable web applications.
+null
 
 ### [**acidic**](https://github.com/storm-software/acidic)
 
-🧪 Acidic is a modeling tool that can be used to describe and generate code for API end points, database tables, type definitions, client components, and so much more!
+null
 
 ### [**cyclone-ui**](https://github.com/storm-software/cyclone-ui)
 
-🌀 Tamagui Web/Mobile universal components + Shadcn UI's style of distributing code - Cyclone UI components are copied into your repositories via the CLI tool.
+null
 
 ### [**stryke**](https://github.com/storm-software/stryke)
 
-🌩️ A repository containing TypeScript utility packages used by Storm Software
+null
 
 ### [**reaper**](https://github.com/storm-software/reaper)
 
-💀 A repository containing trading infrastructure, libraries, and applications used by Storm Software
+null
 
 ### [**flash-flood**](https://github.com/storm-software/flash-flood)
 
-💧  An experimental application for managing bulk blockchain operations 
+null
 
 ### [**storm-ops**](https://github.com/storm-software/storm-ops)
 
-⚙️ The Storm-Ops monorepo contains various configurations and tools used to manage the Storm Software repositories
+null
 
 
 For the full list of repositories, please [**click here**](https://github.com/orgs/storm-software/repositories).
