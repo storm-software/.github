@@ -49,6 +49,7 @@
     "@storm-software/prettier": "latest",
     "@storm-software/testing-tools": "latest",
     "@storm-software/tsconfig": "latest",
+    "conventional-changelog-storm-software": "latest",
     "copyfiles": "^2.4.1",
     "prettier": "^3.6.2",
     "rimraf": "^6.0.1"

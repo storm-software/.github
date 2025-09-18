@@ -22,7 +22,7 @@ importers:
         version: 0.44.0(cspell@8.19.4)
       '@storm-software/git-tools':
         specifier: latest
-        version: 2.122.0(@babel/traverse@7.28.4)(@types/node@24.5.0)(conventional-changelog-storm-software@0.1.0)(zod@4.1.8)
+        version: 2.122.0(@babel/traverse@7.28.4)(@types/node@24.5.0)(conventional-changelog-storm-software@0.2.0)(zod@4.1.8)
       '@storm-software/linting-tools':
         specifier: latest
         version: 1.131.0(chokidar@4.0.3)
@@ -38,6 +38,9 @@ importers:
       '@storm-software/tsconfig':
         specifier: latest
         version: 0.46.0
+      conventional-changelog-storm-software:
+        specifier: latest
+        version: 0.2.0
       copyfiles:
         specifier: ^2.4.1
         version: 2.4.1
@@ -1964,8 +1967,12 @@ packages:
     resolution: {integrity: sha512-5IKcdX0nnYavi6G7TtOhwkYzyjfJlatbjMjuLSfE2kYT5pMDOilZ4OvMhi637CcDICTmz3wARPoyhqyX1Y+XvA==}
     engines: {node: ^14.18.0 || >=16.10.0}
 
-  conventional-changelog-storm-software@0.1.0:
-    resolution: {integrity: sha512-akL0HujZV/7lDS0LaBJ/QHFsGrQ40V45W5SQGgGOwFvJVE8jtq7E8pEKNSdGELsB/l5esrr/fNSytVhoLuK6vQ==}
+  conventional-changelog-conventionalcommits@9.1.0:
+    resolution: {integrity: sha512-MnbEysR8wWa8dAEvbj5xcBgJKQlX/m0lhS8DsyAAWDHdfs2faDJxTgzRYlRYpXSe7UiKrIIlB4TrBKU9q9DgkA==}
+    engines: {node: '>=18'}
+
+  conventional-changelog-storm-software@0.2.0:
+    resolution: {integrity: sha512-jEg0jHw94LsExqEYJppDiB6mse6jPYrx9cHrfdB1UJj0CC621uxZ4Jtjgbq+ZCEMMBW4CjS4X4UC5nieJMTz8g==}
 
   conventional-changelog-writer@8.2.0:
     resolution: {integrity: sha512-Y2aW4596l9AEvFJRwFGJGiQjt2sBYTjPD18DdvxX9Vpz0Z7HQ+g1Z+6iYDAm1vR3QOJrDBkRHixHK/+FhkR6Pw==}
@@ -5648,7 +5655,7 @@ snapshots:
     dependencies:
       cspell: 8.19.4
 
-  '@storm-software/git-tools@2.122.0(@babel/traverse@7.28.4)(@types/node@24.5.0)(conventional-changelog-storm-software@0.1.0)(zod@4.1.8)':
+  '@storm-software/git-tools@2.122.0(@babel/traverse@7.28.4)(@types/node@24.5.0)(conventional-changelog-storm-software@0.2.0)(zod@4.1.8)':
     dependencies:
       '@commitlint/ensure': 19.8.1
       '@commitlint/rules': 19.8.1
@@ -5664,7 +5671,7 @@ snapshots:
       axios: 1.8.2
       chalk: 4.1.2
       chalk-template: 1.1.0
-      conventional-changelog-storm-software: 0.1.0
+      conventional-changelog-storm-software: 0.2.0
       htmlparser2: 10.0.0
       jsonc-parser: 3.2.1
       nx: 21.5.2
@@ -6280,11 +6287,16 @@ snapshots:
 
   consola@3.4.2: {}
 
-  conventional-changelog-storm-software@0.1.0:
+  conventional-changelog-conventionalcommits@9.1.0:
+    dependencies:
+      compare-func: 2.0.0
+
+  conventional-changelog-storm-software@0.2.0:
     dependencies:
       '@storm-software/config': 1.132.0
       '@storm-software/config-tools': 1.186.0
       compare-func: 2.0.0
+      conventional-changelog-conventionalcommits: 9.1.0
       conventional-changelog-writer: 8.2.0
       defu: 6.1.4
     transitivePeerDependencies:
