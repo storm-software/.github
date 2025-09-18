@@ -1,0 +1,9 @@
+{
+  "$schema": "https://cdn.jsdelivr.net/npm/@storm-software/config/schemas/storm-workspace.schema.json",
+  "extends": "@storm-software/config/presets/storm-software.json",
+  "variant": "minimal",
+  "name": "github-profile",
+  "namespace": "storm-software",
+  "repository": "https://github.com/storm-software/.github",
+  "packageManager": "pnpm"
+}

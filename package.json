@@ -1,0 +1,58 @@
+{
+  "name": "@storm-software/github-profile",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "A repository containing the base Renovate configuration used by Storm Software across its repositories.",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/storm-software/.github.git"
+  },
+  "homepage": "https://stormsoftware.com",
+  "bugs": {
+    "url": "https://stormsoftware.com/support",
+    "email": "support@stormsoftware.com"
+  },
+  "author": {
+    "name": "Storm Software",
+    "email": "contact@stormsoftware.com",
+    "url": "https://stormsoftware.com"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/storm-software"
+  },
+  "license": "Apache-2.0",
+  "private": true,
+  "packageManager": "pnpm@10.10.0",
+  "engines": {
+    "node": ">=22.14.0",
+    "pnpm": ">=10.10.0"
+  },
+  "keywords": [
+    "storm-software",
+    "storm",
+    "github-profile"
+  ],
+  "scripts": {
+    "commit": "pnpm exec storm-git commit",
+    "push": "git push origin main:main",
+    "view-config": "pnpm exec storm-config"
+  },
+  "devDependencies": {
+    "@ls-lint/ls-lint": "^2.3.1",
+    "@storm-software/config": "latest",
+    "@storm-software/config-tools": "latest",
+    "@storm-software/cspell": "latest",
+    "@storm-software/git-tools": "latest",
+    "@storm-software/linting-tools": "latest",
+    "@storm-software/markdownlint": "latest",
+    "@storm-software/prettier": "latest",
+    "@storm-software/testing-tools": "latest",
+    "@storm-software/tsconfig": "latest",
+    "copyfiles": "^2.4.1",
+    "prettier": "^3.6.2",
+    "rimraf": "^6.0.1"
+  },
+  "prettier": "@storm-software/prettier/config.json",
+  "triggerEmptyDevReleaseByIncrementingThisNumber": 0
+}
