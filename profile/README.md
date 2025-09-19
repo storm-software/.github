@@ -15,9 +15,9 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 
 ⚡ The Storm Stack monorepo contains utility applications, tools, and various libraries to create modern and scalable web applications.
 
-### [**acidic**](https://github.com/storm-software/acidic)
+### [**earthquake**](https://github.com/storm-software/earthquake)
 
-🧪 Acidic is a modeling tool that can be used to describe and generate code for API end points, database tables, type definitions, client components, and so much more!
+🪨  A React framework to simplify RSC, SSG, and SSR using Storm Stack.
 
 ### [**cyclone-ui**](https://github.com/storm-software/cyclone-ui)
 
@@ -34,6 +34,10 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 ### [**flash-flood**](https://github.com/storm-software/flash-flood)
 
 💧  An experimental application for managing bulk blockchain operations 
+
+### [**acidic**](https://github.com/storm-software/acidic)
+
+🧪 Acidic is a modeling tool that can be used to describe and generate code for API end points, database tables, type definitions, client components, and so much more!
 
 ### [**storm-ops**](https://github.com/storm-software/storm-ops)
 
