@@ -17,7 +17,6 @@ env:
   STORM_REPOSITORY: ${{ github.repositoryUrl }}
   STORM_WORKSPACE_ROOT: ${{ github.workspace }}
   GITHUB_ACTOR: ${{ github.actor }}
-  GITHUB_TOKEN: ${{ github.token }}
   NPM_TOKEN: ${{ secrets.STORM_BOT_NPM_TOKEN }}
   CARGO_REGISTRY_TOKEN: ${{ secrets.STORM_BOT_CARGO_TOKEN }}
 
@@ -45,7 +44,7 @@ jobs:
         id: cpr
         uses: peter-evans/create-pull-request@v7
         with:
-          token: ${{ github.token }}
+          token: ${{ secrets.STORM_BOT_GITHUB_TOKEN }}
           commit-message: "Update Profile README with new repositories"
           committer: "Stormie-Bot <support@stormsoftware.com>"
           author: "Stormie-Bot <support@stormsoftware.com>"
