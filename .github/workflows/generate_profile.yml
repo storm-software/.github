@@ -29,13 +29,14 @@ jobs:
 
       - name: Create Pull Request
         id: cpr
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ secrets.STORM_BOT_GITHUB_TOKEN }}
           commit-message: "Update Profile README with new repositories"
           committer: "Stormie-Bot <support@stormsoftware.com>"
           author: "Stormie-Bot <support@stormsoftware.com>"
           signoff: true
+          sign-commits: true
           delete-branch: true
           base: "main"
           title: "Update the Profile README with new repositories"
