@@ -68,7 +68,7 @@ done <"$REPOSITORY_LIST"
 
 echo "" >>profile/README.md
 echo "<br />" >>profile/README.md
-echo "For the full list of repositories, please [**click here**](https://github.com/orgs/storm-software/repositories)." >>profile/README.md
+echo "For more interesting Storm Software projects, check out [**our repository list**](https://github.com/orgs/storm-software/repositories)" >>profile/README.md
 
 echo "" >>profile/README.md
 echo "<br />" >>profile/README.md
