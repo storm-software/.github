@@ -45,7 +45,7 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 
 
 <br />
-For the full list of repositories, please [**click here**](https://github.com/orgs/storm-software/repositories).
+For more interesting Storm Software projects, check out [**our repository list**](https://github.com/orgs/storm-software/repositories)
 
 <br />
 
