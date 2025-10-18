@@ -25,7 +25,7 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 
 ### [**stryke**](https://github.com/storm-software/stryke)
 
-🌩️ A repository containing TypeScript utility packages used by Storm Software
+💥  A repository containing TypeScript utility packages used by Storm Software
 
 ### [**reaper**](https://github.com/storm-software/reaper)
 
