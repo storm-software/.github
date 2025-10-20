@@ -11,13 +11,17 @@ Our mission is to make software development more accessible. Our ideal future is
 ## <img src="https://public.storm-cdn.com/repositories-text.svg" alt="Repositories" height="40px"/>
 This GitHub organization contains repos that are officially maintained by [**Storm Software**](https://stormsoftware.com):
 
+### [**powerlines**](https://github.com/storm-software/powerlines)
+
+🔌  The "any framework" framework that simplifies modern dev tool usage, generates virtual (or actual) code modules, and improves DX across the board.
+
 ### [**storm-stack**](https://github.com/storm-software/storm-stack)
 
 ⚡ The Storm Stack monorepo contains utility applications, tools, and various libraries to create modern and scalable web applications.
 
 ### [**earthquake**](https://github.com/storm-software/earthquake)
 
-🪨  A React framework to simplify RSC, SSG, and SSR using Storm Stack.
+💥  A React framework to simplify RSC, SSG, and SSR using Storm Stack.
 
 ### [**cyclone-ui**](https://github.com/storm-software/cyclone-ui)
 
@@ -25,7 +29,7 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 
 ### [**stryke**](https://github.com/storm-software/stryke)
 
-🌩️ A repository containing TypeScript utility packages used by Storm Software
+🌩️  A repository containing TypeScript utility packages used by Storm Software
 
 ### [**reaper**](https://github.com/storm-software/reaper)
 
