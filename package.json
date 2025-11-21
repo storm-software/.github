@@ -23,10 +23,10 @@
   },
   "license": "Apache-2.0",
   "private": true,
-  "packageManager": "pnpm@10.10.0",
+  "packageManager": "pnpm@10.23.0",
   "engines": {
-    "node": ">=22.14.0",
-    "pnpm": ">=10.10.0"
+    "node": ">=22.21.1",
+    "pnpm": ">=10.23.0"
   },
   "keywords": [
     "storm-software",
@@ -52,7 +52,7 @@
     "conventional-changelog-storm-software": "latest",
     "copyfiles": "^2.4.1",
     "prettier": "^3.6.2",
-    "rimraf": "^6.0.1"
+    "rimraf": "^6.1.2"
   },
   "prettier": "@storm-software/prettier/config.json",
   "triggerEmptyDevReleaseByIncrementingThisNumber": 0
