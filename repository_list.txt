@@ -1,5 +1,4 @@
 storm-software/powerlines
-storm-software/storm-stack
 storm-software/earthquake
 storm-software/cyclone-ui
 storm-software/stryke
