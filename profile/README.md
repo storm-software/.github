@@ -15,10 +15,6 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 
 🔌  The "any framework" framework that simplifies modern dev tool usage, generates virtual (or actual) code modules, and improves DX across the board.
 
-### [**storm-stack**](https://github.com/storm-software/storm-stack)
-
-⚡ The Storm Stack monorepo contains utility applications, tools, and various libraries to create modern and scalable web applications.
-
 ### [**earthquake**](https://github.com/storm-software/earthquake)
 
 💥  A React framework to simplify RSC, SSG, and SSR using Storm Stack.
