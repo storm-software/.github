@@ -13,35 +13,35 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 
 ### [**powerlines**](https://github.com/storm-software/powerlines)
 
-🔌  The "any framework" framework that simplifies modern dev tool usage, generates virtual (or actual) code modules, and improves DX across the board.
+null
 
 ### [**earthquake**](https://github.com/storm-software/earthquake)
 
-💥  A React framework to simplify RSC, SSG, and SSR using Storm Stack.
+null
 
 ### [**cyclone-ui**](https://github.com/storm-software/cyclone-ui)
 
-🌀 Tamagui Web/Mobile universal components + Shadcn UI's style of distributing code - Cyclone UI components are copied into your repositories via the CLI tool.
+null
 
 ### [**stryke**](https://github.com/storm-software/stryke)
 
-🌩️  A repository containing TypeScript utility packages used by Storm Software
+null
 
 ### [**reaper**](https://github.com/storm-software/reaper)
 
-💀 A repository containing trading infrastructure, libraries, and applications used by Storm Software
+null
 
 ### [**flash-flood**](https://github.com/storm-software/flash-flood)
 
-💧  An experimental application for managing bulk blockchain operations 
+null
 
 ### [**acidic**](https://github.com/storm-software/acidic)
 
-🧪 Acidic is a modeling tool that can be used to describe and generate code for API end points, database tables, type definitions, client components, and so much more!
+null
 
 ### [**storm-ops**](https://github.com/storm-software/storm-ops)
 
-⚙️ The Storm-Ops monorepo contains various configurations and tools used to manage the Storm Software repositories
+null
 
 
 <br />
