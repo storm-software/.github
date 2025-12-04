@@ -1,8 +1,8 @@
-<div align="center"><img src="https://public.storm-cdn.com/storm-banner.gif" alt="Storm Software" width="100%"/></div>
+<div align="center"><img src="https://public.storm-cdn.com/storm-software/logo-1920x1080-compressed.gif" alt="Storm Software" width="100%"/></div>
 
 <br /><div align="center"><b><a href="https://stormsoftware.com" target="_blank">Website</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://stormsoftware.com/contact" target="_blank">Contact</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://discord.gg/MQ6YVzakM5" target="_blank">Discord</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://t.me/storm_software" target="_blank">Telegram</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://medium.com/storm-software" target="_blank">Medium</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://www.patreon.com/StormSoftware" target="_blank">Sponsorship</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://keybase.io/sullivanp" target="_blank">OpenPGP Key</a></b></div><br /><div align=center><b>Fingerprint:</b> 1BD2 7192 7770 2549 F4C9 F238 E6AD C420 DA5C 4C2D</div><hr />
 
-Storm Software is an open source software development organization and the creator of the Stryke utilities, Storm Stack, Cyclone UI, Acidic, and Storm Cloud.
+Storm Software is an open source software development organization working with the community to improve DX anyway we can.
 
 Our mission is to make software development more accessible. Our ideal future is one where anyone can create software without years of prior development experience serving as a barrier to entry. We hope to achieve this via LLMs, generative AI, and intuitive, high-level data modeling and programming languages.
 
@@ -27,6 +27,10 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 
 🌩️  A repository containing TypeScript utility packages used by Storm Software
 
+### [**acidic**](https://github.com/storm-software/acidic)
+
+🧪 Acidic is a modeling tool that can be used to describe and generate code for API end points, database tables, type definitions, client components, and so much more!
+
 ### [**reaper**](https://github.com/storm-software/reaper)
 
 💀 A repository containing trading infrastructure, libraries, and applications used by Storm Software
@@ -34,10 +38,6 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 ### [**flash-flood**](https://github.com/storm-software/flash-flood)
 
 💧  An experimental application for managing bulk blockchain operations 
-
-### [**acidic**](https://github.com/storm-software/acidic)
-
-🧪 Acidic is a modeling tool that can be used to describe and generate code for API end points, database tables, type definitions, client components, and so much more!
 
 ### [**storm-ops**](https://github.com/storm-software/storm-ops)
 
