@@ -1,4 +1,11 @@
-<div align="center"><img src="https://pub-761b436209f44a4d886487c917806c08.r2.dev/storm-banner.gif" width="100%" alt="Storm Software" /></div>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://public.storm-cdn.com/storm-software/banner-1280x640-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://public.storm-cdn.com/storm-software/banner-1280x640-light.gif">
+<img src="https://public.storm-cdn.com/storm-software/banner-1280x640-dark.gif" width="100%" alt="Storm Software" />
+</picture>
+</div>
+<br />
 
 <br />
 <div align="center">
