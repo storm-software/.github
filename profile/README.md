@@ -13,7 +13,7 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 
 ### [**powerlines**](https://github.com/storm-software/powerlines)
 
-🔌  The "any framework" framework that simplifies modern dev tool usage, generates virtual (or actual) code modules, and improves DX across the board.
+🔌  The "framework framework" that simplifies modern dev tool usage, generates virtual (or actual) code modules, and improves DX across the board.
 
 ### [**earthquake**](https://github.com/storm-software/earthquake)
 
