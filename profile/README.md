@@ -22,7 +22,7 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 
 ### [**powerlines**](https://github.com/storm-software/powerlines)
 
-🔌  The "any framework" framework that simplifies modern dev tool usage, generates virtual (or actual) code modules, and improves DX across the board.
+🔌  The "framework framework" that simplifies modern dev tool usage, generates virtual (or actual) code modules, and improves DX across the board.
 
 ### [**earthquake**](https://github.com/storm-software/earthquake)
 
@@ -31,6 +31,10 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 ### [**cyclone-ui**](https://github.com/storm-software/cyclone-ui)
 
 🌀 Tamagui Web/Mobile universal components + Shadcn UI's style of distributing code - Cyclone UI components are copied into your repositories via the CLI tool.
+
+### [**shell-shock**](https://github.com/storm-software/shell-shock)
+
+🪖  A framework built to support the rapid development of fully-featured command-line interface applications
 
 ### [**stryke**](https://github.com/storm-software/stryke)
 
@@ -43,10 +47,6 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 ### [**reaper**](https://github.com/storm-software/reaper)
 
 💀 A repository containing trading infrastructure, libraries, and applications used by Storm Software
-
-### [**flash-flood**](https://github.com/storm-software/flash-flood)
-
-💧  An experimental application for managing bulk blockchain operations 
 
 ### [**storm-ops**](https://github.com/storm-software/storm-ops)
 
