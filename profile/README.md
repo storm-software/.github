@@ -1,9 +1,11 @@
 <div align="center">
+<a href="https://stormsoftware.com" target="_blank">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://public.storm-cdn.com/storm-software/banner-1280x640-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://public.storm-cdn.com/storm-software/banner-1280x640-light.gif">
-<img src="https://public.storm-cdn.com/storm-software/banner-1280x640-dark.gif" width="100%" alt="Storm Software" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://public.storm-cdn.com/storm-software/social-1280x640-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://public.storm-cdn.com/storm-software/social-1280x640-light.gif">
+<img src="https://public.storm-cdn.com/storm-software/social-1280x640-dark.gif" width="100%" alt="Storm Software" />
 </picture>
+</a>
 </div>
 <br />
 
