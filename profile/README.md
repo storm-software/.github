@@ -24,17 +24,13 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 
 🔌  The "framework framework" that simplifies modern dev tool usage, generates virtual (or actual) code modules, and improves DX across the board.
 
-### [**earthquake**](https://github.com/storm-software/earthquake)
+### [**shell-shock**](https://github.com/storm-software/shell-shock)
 
-💥  A React framework to simplify RSC, SSG, and SSR using Storm Stack.
+🪖  A framework built to support the rapid development of fully-featured command-line interface applications
 
 ### [**cyclone-ui**](https://github.com/storm-software/cyclone-ui)
 
 🌀 Tamagui Web/Mobile universal components + Shadcn UI's style of distributing code - Cyclone UI components are copied into your repositories via the CLI tool.
-
-### [**shell-shock**](https://github.com/storm-software/shell-shock)
-
-🪖  A framework built to support the rapid development of fully-featured command-line interface applications
 
 ### [**stryke**](https://github.com/storm-software/stryke)
 
