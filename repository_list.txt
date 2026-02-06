@@ -1,6 +1,6 @@
 storm-software/powerlines
-storm-software/cyclone-ui
 storm-software/shell-shock
+storm-software/cyclone-ui
 storm-software/stryke
 storm-software/acidic
 storm-software/reaper
