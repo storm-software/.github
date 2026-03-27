@@ -8,7 +8,7 @@ Our mission is to make software development more accessible. Our ideal future is
 
 <br />
 
-## <img src="https://public.storm-cdn.com/repositories-text.svg" alt="Repositories" height="40px"/>
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://public.storm-cdn.com/misc/text/repository-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://public.storm-cdn.com/misc/text/repository-light.png"><img src="https://public.storm-cdn.com/misc/text/repository-dark.png" height="40px" alt="Repositories" /></picture>
 This GitHub organization contains repos that are officially maintained by [**Storm Software**](https://stormsoftware.com):
 
 ### [**powerlines**](https://github.com/storm-software/powerlines)
@@ -45,7 +45,7 @@ This GitHub organization contains repos that are officially maintained by [**Sto
 
 <br />
 
-## <img src="https://public.storm-cdn.com/join-us-text.svg" alt="Join us" height="40px"/>
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://public.storm-cdn.com/misc/text/join-us-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://public.storm-cdn.com/misc/text/join-us-light.png"><img src="https://public.storm-cdn.com/misc/text/join-us-dark.png" height="40px" alt="Join us" /></picture>
 Join us on [**Discord**](https://discord.gg/MQ6YVzakM5) to chat with the team, receive release notifications, ask questions, and get involved.
 
 If this sounds interesting, and you would like to help us in creating the next generation of development tools, please reach out on our [**website**](https://stormsoftware.com/contact) or join our [**Slack**](https://join.slack.com/t/storm-software/shared_invite/zt-2gsmk04hs-i6yhK_r6urq0dkZYAwq2pA) channel!
@@ -54,6 +54,6 @@ If this sounds interesting, and you would like to help us in creating the next g
 
 <div align="center"><a href="https://stormsoftware.com" target="_blank"><img src="https://public.storm-cdn.com/storm-software/icon-circle-fill-dark.png" alt="Storm Software" width="200px"/></a></div>
 <br />
-<div align="center"><a href="https://stormsoftware.com" target="_blank"><img src="https://public.storm-cdn.com/visit-us-text.svg" alt="Visit us at stormsoftware.com" height="90px"/></a></div>
+<div align="center"><a href="https://stormsoftware.com" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://public.storm-cdn.com/misc/text/visit-us-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://public.storm-cdn.com/misc/text/visit-us-light.png"><img src="https://public.storm-cdn.com/misc/text/visit-us-dark.png" height="40px" alt="Visit us at stormsoftware.com" /></picture></a></div>
 
 
