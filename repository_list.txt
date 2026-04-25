@@ -1,8 +1,8 @@
 storm-software/powerlines
 storm-software/shell-shock
+storm-software/earthquake
 storm-software/cyclone-ui
 storm-software/stryke
-storm-software/earthquake
 storm-software/acidic
 storm-software/reaper
 storm-software/storm-ops

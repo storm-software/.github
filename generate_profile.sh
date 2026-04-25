@@ -33,17 +33,16 @@ echo "<div align=\"center\"><a href=\"https://stormsoftware.com\" target=\"_blan
 echo "" >>profile/README.md
 echo "<br /><div align=\"center\"><b><a href=\"https://stormsoftware.com\" target=\"_blank\">Website</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href=\"https://stormsoftware.com/contact\" target=\"_blank\">Contact</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href=\"https://discord.gg/MQ6YVzakM5\" target=\"_blank\">Discord</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href=\"https://t.me/storm_software\" target=\"_blank\">Telegram</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href=\"https://medium.com/storm-software\" target=\"_blank\">Medium</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href=\"https://www.patreon.com/StormSoftware\" target=\"_blank\">Sponsorship</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href=\"https://keybase.io/sullivanp\" target=\"_blank\">OpenPGP Key</a></b></div><br /><div align="center"><b>Fingerprint:</b> 1BD2 7192 7770 2549 F4C9 F238 E6AD C420 DA5C 4C2D</div><hr />" >>profile/README.md
 echo "" >>profile/README.md
-echo "Storm Software is an open source software development organization working with the community to improve the development experience." >>profile/README.md
+echo "At Storm Software, we obsess over DX." >>profile/README.md
 echo "" >>profile/README.md
-echo "Our mission is to make software development more accessible. Our ideal future is one where anyone can create software without years of prior development experience serving as a barrier to entry. We hope to achieve this via LLMs, generative AI, and intuitive, high-level data modeling and programming languages." >>profile/README.md
+echo "Our mission is to make high-quality software development more enjoyable and accessible. Our ideal future is one where anyone, regardless of budget or team size, can create software that rivals the industry leaders. We hope to achieve this via intuitive, high-level data modeling/programming languages, development tools that accelerate productivity, and collaborative community efforts." >>profile/README.md
 echo "<br />"
 echo "" >>profile/README.md
 echo "<br />" >>profile/README.md
 echo "" >>profile/README.md
 echo "## <picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://public.storm-cdn.com/misc/text/repositories-dark.png\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://public.storm-cdn.com/misc/text/repositories-light.png\"><img src=\"https://public.storm-cdn.com/misc/text/repositories-dark.png\" height=\"40px\" alt=\"Repositories\" /></picture>" >>profile/README.md
-echo "This GitHub organization contains repos that are officially maintained by [**Storm Software**](https://stormsoftware.com):" >>profile/README.md
+echo "This GitHub organization contains repositories that are officially maintained by [**Storm Software**](https://stormsoftware.com):" >>profile/README.md
 echo "" >>profile/README.md
-
 
 # Start with index 1 for first repo
 index=1
@@ -76,7 +75,7 @@ echo "" >>profile/README.md
 echo "## <picture><source media=\"(prefers-color-scheme: dark)\" srcset=\"https://public.storm-cdn.com/misc/text/join-us-dark.png\"><source media=\"(prefers-color-scheme: light)\" srcset=\"https://public.storm-cdn.com/misc/text/join-us-light.png\"><img src=\"https://public.storm-cdn.com/misc/text/join-us-dark.png\" height=\"40px\" alt=\"Join us\" /></picture>" >>profile/README.md
 echo "Join us on [**Discord**](https://discord.gg/MQ6YVzakM5) to chat with the team, receive release notifications, ask questions, and get involved." >>profile/README.md
 echo "" >>profile/README.md
-echo "If this sounds interesting, and you would like to help us in creating the next generation of development tools, please reach out on our [**website**](https://stormsoftware.com/contact) or join our [**Slack**](https://join.slack.com/t/storm-software/shared_invite/zt-2gsmk04hs-i6yhK_r6urq0dkZYAwq2pA) channel!" >>profile/README.md
+echo "If this sounds interesting, and you would like to help us in creating the next generation of development tools, please reach out on our [**website**](https://stormsoftware.com/contact) or join our [**Slack**](https://join.slack.com/t/storm-software/shared_invite/zt-2gsmk04hs-i6yhK_r6urq0dkZYAwq2pA) channel! If you plan on publishing content that incorporates the Storm Software brand in anyway, please take a quick look at our [**brand guidelines**](https://github.com/storm-software/media-kit)." >>profile/README.md
 echo "" >>profile/README.md
 echo "<br />" >>profile/README.md
 echo "" >>profile/README.md
