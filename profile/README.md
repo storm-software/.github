@@ -17,31 +17,31 @@ This GitHub organization contains repositories that are officially maintained by
 
 ### [**shell-shock**](https://github.com/storm-software/shell-shock)
 
-🪖  A framework that uses NextJs's style of file based routing and applies it to command line applications.
+null
 
 ### [**earthquake**](https://github.com/storm-software/earthquake)
 
-💥  A modern React framework that improves on the NextJs design
+null
 
 ### [**cyclone-ui**](https://github.com/storm-software/cyclone-ui)
 
-🌀 Tamagui Web/Mobile universal components + Shadcn UI's style of distributing code - Cyclone UI components are copied into your repositories via the CLI tool.
+null
 
 ### [**stryke**](https://github.com/storm-software/stryke)
 
-🌩️  A repository containing TypeScript utility packages used by Storm Software
+null
 
 ### [**acidic**](https://github.com/storm-software/acidic)
 
-🧪 Acidic is a modeling tool that can be used to describe and generate code for API end points, database tables, type definitions, client components, and so much more!
+null
 
 ### [**reaper**](https://github.com/storm-software/reaper)
 
-💀 A repository containing trading infrastructure, libraries, and applications used by Storm Software
+null
 
 ### [**storm-ops**](https://github.com/storm-software/storm-ops)
 
-⚙️ The Storm-Ops monorepo contains various configurations and tools used to manage the Storm Software repositories
+null
 
 
 <br />
