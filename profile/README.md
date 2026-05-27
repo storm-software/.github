@@ -2,8 +2,6 @@
 
 <br /><div align="center"><b><a href="https://stormsoftware.com" target="_blank">Website</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://stormsoftware.com/contact" target="_blank">Contact</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://discord.gg/MQ6YVzakM5" target="_blank">Discord</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://t.me/storm_software" target="_blank">Telegram</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://medium.com/storm-software" target="_blank">Medium</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://www.patreon.com/StormSoftware" target="_blank">Sponsorship</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://keybase.io/sullivanp" target="_blank">OpenPGP Key</a></b></div><br /><div align=center><b>Fingerprint:</b> 1BD2 7192 7770 2549 F4C9 F238 E6AD C420 DA5C 4C2D</div><hr />
 
-At Storm Software, we obsess over DX.
-
 Our mission is to make high-quality software development more enjoyable and accessible. Our ideal future is one where anyone, regardless of budget or team size, can create software that rivals the industry leaders. We hope to achieve this via intuitive, high-level data modeling/programming languages, development tools that accelerate productivity, and collaborative community efforts.
 
 <br />
