@@ -41,12 +41,12 @@ in
   };
   languages.javascript = {
     enable = true;
-    package = pkgs-unstable.nodejs_24;
+    package = pkgs-unstable.nodejs;
     corepack.enable = true;
     pnpm = {
       enable = true;
       install.enable = true;
-      package = pkgs-unstable.nodePackages.pnpm;
+      package = pkgs-unstable.pnpm;
     };
   };
 
