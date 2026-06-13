@@ -1,6 +1,5 @@
 storm-software/powerlines
 storm-software/shell-shock
-storm-software/earthquake
 storm-software/cyclone-ui
 storm-software/stryke
 storm-software/acidic
