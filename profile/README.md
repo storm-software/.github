@@ -17,10 +17,6 @@ This GitHub organization contains repositories that are officially maintained by
 
 🪖  A framework that uses NextJs's style of file based routing and applies it to command line applications.
 
-### [**earthquake**](https://github.com/storm-software/earthquake)
-
-💥  A modern React framework that improves on the NextJs design
-
 ### [**cyclone-ui**](https://github.com/storm-software/cyclone-ui)
 
 🌀 Tamagui Web/Mobile universal components + Shadcn UI's style of distributing code - Cyclone UI components are copied into your repositories via the CLI tool.
