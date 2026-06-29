@@ -13,6 +13,10 @@ This GitHub organization contains repositories that are officially maintained by
 
 🔌  The "framework framework" that simplifies modern dev tool usage, generates virtual (or actual) code modules, and improves DX across the board.
 
+### [**power-plant**](https://github.com/storm-software/power-plant)
+
+☢️ Text generation that gives your AI superpowers
+
 ### [**shell-shock**](https://github.com/storm-software/shell-shock)
 
 🪖  A framework that uses NextJs's style of file based routing and applies it to command line applications.
