@@ -9,6 +9,10 @@ Our mission is to make high-quality software development more enjoyable and acce
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://public.storm-cdn.com/misc/text/repositories-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://public.storm-cdn.com/misc/text/repositories-light.png"><img src="https://public.storm-cdn.com/misc/text/repositories-dark.png" height="40px" alt="Repositories" /></picture>
 This GitHub organization contains repositories that are officially maintained by [**Storm Software**](https://stormsoftware.com):
 
+### [**telepathic**](https://github.com/storm-software/telepathic)
+
+🔮  Let your models read your mind
+
 ### [**powerlines**](https://github.com/storm-software/powerlines)
 
 🔌  The "framework framework" that simplifies modern dev tool usage, generates virtual (or actual) code modules, and improves DX across the board.
@@ -16,6 +20,10 @@ This GitHub organization contains repositories that are officially maintained by
 ### [**power-plant**](https://github.com/storm-software/power-plant)
 
 ☢️ Text generation that gives your AI superpowers
+
+### [**windie**](https://github.com/storm-software/windie)
+
+💨  Windie is a unified set of tools that make creating design systems a breeze.
 
 ### [**shell-shock**](https://github.com/storm-software/shell-shock)
 
