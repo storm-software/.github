@@ -1,5 +1,7 @@
+storm-software/telepathic
 storm-software/powerlines
 storm-software/power-plant
+storm-software/windie
 storm-software/shell-shock
 storm-software/cyclone-ui
 storm-software/stryke

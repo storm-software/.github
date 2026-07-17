@@ -21,17 +21,12 @@ in
   env.DEFAULT_TIMEZONE = "America/New_York";
 
   # https://devenv.sh/packages/
-  packages = [
-    # Source Control
-    pkgs.gnupg
-    pkgs.git-lfs
-    pkgs.git-crypt
-
-    # Linting
-    pkgs.typos
-
-    # Tools
-    pkgs.nixd
+  packages = with pkgs; [
+    gnupg
+    git-lfs
+    git-crypt
+    typos
+    nixd
   ];
 
   # https://devenv.sh/languages/
