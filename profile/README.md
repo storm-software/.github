@@ -19,9 +19,9 @@ This GitHub organization contains repositories that are officially maintained by
 
 ### [**power-plant**](https://github.com/storm-software/power-plant)
 
-☢️ Text generation that gives your AI superpowers
+☢️  Generate anything from a specification
 
-### [**windie**](https://github.com/storm-software/windie)
+### [**razorwind**](https://github.com/storm-software/razorwind)
 
 💨  Windie is a unified set of tools that make creating design systems a breeze.
 
@@ -36,6 +36,10 @@ This GitHub organization contains repositories that are officially maintained by
 ### [**stryke**](https://github.com/storm-software/stryke)
 
 🌩️  A repository containing TypeScript utility packages used by Storm Software
+
+### [**may-i**](https://github.com/storm-software/may-i)
+
+🚧 May I use AI? If your runtime doesn't have the required data to make requests to your AI model, handle it gracefully.
 
 ### [**acidic**](https://github.com/storm-software/acidic)
 
