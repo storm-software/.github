@@ -23,7 +23,7 @@ This GitHub organization contains repositories that are officially maintained by
 
 ### [**razorwind**](https://github.com/storm-software/razorwind)
 
-💨  Windie is a unified set of tools that make creating design systems a breeze.
+💨  A unified set of tools that make creating design systems a breeze.
 
 ### [**shell-shock**](https://github.com/storm-software/shell-shock)
 
