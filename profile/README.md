@@ -1,4 +1,4 @@
-<div align="center"><a href="https://stormsoftware.com" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://public.storm-cdn.com/storm-software/media/socials-1280x640-dark.gif"><source media="(prefers-color-scheme: light)" srcset="https://public.storm-cdn.com/storm-software/media/socials-1280x640-light.gif"><img src="https://public.storm-cdn.com/storm-software/media/socials-1280x640-dark.gif" width="100%" alt="Storm Software" /></picture></a></div>
+<div align="center"><a href="https://stormsoftware.com" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://public.storm-cdn.com/storm-software/media/socials-1280x427-dark.gif"><source media="(prefers-color-scheme: light)" srcset="https://public.storm-cdn.com/storm-software/media/socials-1280x427-light.gif"><img src="https://public.storm-cdn.com/storm-software/media/socials-1280x427-dark.gif" width="100%" alt="Storm Software" /></picture></a></div>
 
 <br /><div align="center"><b><a href="https://stormsoftware.com" target="_blank">Website</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://stormsoftware.com/contact" target="_blank">Contact</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://discord.gg/MQ6YVzakM5" target="_blank">Discord</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://t.me/storm_software" target="_blank">Telegram</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://medium.com/storm-software" target="_blank">Medium</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://www.patreon.com/StormSoftware" target="_blank">Sponsorship</a><span>&nbsp;&nbsp;•&nbsp;&nbsp;</span><a href="https://keybase.io/sullivanp" target="_blank">OpenPGP Key</a></b></div><br /><div align=center><b>Fingerprint:</b> 1BD2 7192 7770 2549 F4C9 F238 E6AD C420 DA5C 4C2D</div><hr />
 
@@ -8,10 +8,6 @@ Our mission is to make high-quality software development more enjoyable and acce
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://public.storm-cdn.com/misc/text/repositories-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://public.storm-cdn.com/misc/text/repositories-light.png"><img src="https://public.storm-cdn.com/misc/text/repositories-dark.png" height="40px" alt="Repositories" /></picture>
 This GitHub organization contains repositories that are officially maintained by [**Storm Software**](https://stormsoftware.com):
-
-### [**telepathic**](https://github.com/storm-software/telepathic)
-
-🔮  Let your models read your mind
 
 ### [**powerlines**](https://github.com/storm-software/powerlines)
 
@@ -32,6 +28,10 @@ This GitHub organization contains repositories that are officially maintained by
 ### [**cyclone-ui**](https://github.com/storm-software/cyclone-ui)
 
 🌀 Tamagui Web/Mobile universal components + Shadcn UI's style of distributing code - Cyclone UI components are copied into your repositories via the CLI tool.
+
+### [**telepathic**](https://github.com/storm-software/telepathic)
+
+🔮  Let your models read your mind
 
 ### [**stryke**](https://github.com/storm-software/stryke)
 
