@@ -1,9 +1,9 @@
-storm-software/telepathic
 storm-software/powerlines
 storm-software/power-plant
 storm-software/razorwind
 storm-software/shell-shock
 storm-software/cyclone-ui
+storm-software/telepathic
 storm-software/stryke
 storm-software/may-i
 storm-software/acidic
