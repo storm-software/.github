@@ -29,6 +29,10 @@ This GitHub organization contains repositories that are officially maintained by
 
 🌀 Tamagui Web/Mobile universal components + Shadcn UI's style of distributing code - Cyclone UI components are copied into your repositories via the CLI tool.
 
+### [**mindctl**](https://github.com/storm-software/mindctl)
+
+🧠  A LLM router that uses built-in logic and the Jev system one model to intelligently route requests to the appropriate model based on the input data
+
 ### [**telepathic**](https://github.com/storm-software/telepathic)
 
 🔮  Let your models read your mind
