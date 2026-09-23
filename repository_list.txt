@@ -3,6 +3,7 @@ storm-software/power-plant
 storm-software/razorwind
 storm-software/shell-shock
 storm-software/cyclone-ui
+storm-software/mindctl
 storm-software/telepathic
 storm-software/stryke
 storm-software/may-i
