@@ -1,12 +1,13 @@
-storm-software/powerlines
-storm-software/power-plant
+
 storm-software/razorwind
-storm-software/shell-shock
 storm-software/cyclone-ui
+storm-software/shell-shock
+storm-software/sourcebook
 storm-software/mindctl
 storm-software/telepathic
+storm-software/power-plant
+storm-software/powerlines
 storm-software/stryke
 storm-software/may-i
-storm-software/acidic
 storm-software/reaper
 storm-software/storm-ops
