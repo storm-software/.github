@@ -9,10 +9,6 @@ Our mission is to make high-quality software development more enjoyable and acce
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://public.storm-cdn.com/misc/text/repositories-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://public.storm-cdn.com/misc/text/repositories-light.png"><img src="https://public.storm-cdn.com/misc/text/repositories-dark.png" height="40px" alt="Repositories" /></picture>
 This GitHub organization contains repositories that are officially maintained by [**Storm Software**](https://stormsoftware.com):
 
-### [****](https://github.com/)
-
-null
-
 ### [**razorwind**](https://github.com/storm-software/razorwind)
 
 💨  A unified set of tools that make creating design systems a breeze.
