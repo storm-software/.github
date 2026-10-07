@@ -9,33 +9,41 @@ Our mission is to make high-quality software development more enjoyable and acce
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://public.storm-cdn.com/misc/text/repositories-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://public.storm-cdn.com/misc/text/repositories-light.png"><img src="https://public.storm-cdn.com/misc/text/repositories-dark.png" height="40px" alt="Repositories" /></picture>
 This GitHub organization contains repositories that are officially maintained by [**Storm Software**](https://stormsoftware.com):
 
-### [**powerlines**](https://github.com/storm-software/powerlines)
+### [****](https://github.com/)
 
-🔌  The "framework framework" that simplifies modern dev tool usage, generates virtual (or actual) code modules, and improves DX across the board.
-
-### [**power-plant**](https://github.com/storm-software/power-plant)
-
-☢️  Generate anything from a specification
+null
 
 ### [**razorwind**](https://github.com/storm-software/razorwind)
 
 💨  A unified set of tools that make creating design systems a breeze.
 
-### [**shell-shock**](https://github.com/storm-software/shell-shock)
-
-🪖  A framework that uses NextJs's style of file based routing and applies it to command line applications.
-
 ### [**cyclone-ui**](https://github.com/storm-software/cyclone-ui)
 
 🌀 Tamagui Web/Mobile universal components + Shadcn UI's style of distributing code - Cyclone UI components are copied into your repositories via the CLI tool.
 
+### [**shell-shock**](https://github.com/storm-software/shell-shock)
+
+🪖  A framework that uses NextJs's style of file based routing and applies it to command line applications.
+
+### [**sourcebook**](https://github.com/storm-software/sourcebook)
+
+📓   Automate your technical docs and blog
+
 ### [**mindctl**](https://github.com/storm-software/mindctl)
 
-🧠  A LLM router that uses built-in logic and the Jev system one model to intelligently route requests to the appropriate model based on the input data
+An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate LLM based on the input prompt
 
 ### [**telepathic**](https://github.com/storm-software/telepathic)
 
 🔮  Let your models read your mind
+
+### [**power-plant**](https://github.com/storm-software/power-plant)
+
+☢️  Generate anything from a specification
+
+### [**powerlines**](https://github.com/storm-software/powerlines)
+
+🔌  The "framework framework" that simplifies modern dev tool usage, generates virtual (or actual) code modules, and improves DX across the board.
 
 ### [**stryke**](https://github.com/storm-software/stryke)
 
@@ -44,10 +52,6 @@ This GitHub organization contains repositories that are officially maintained by
 ### [**may-i**](https://github.com/storm-software/may-i)
 
 🚧 May I use AI? If your runtime doesn't have the required data to make requests to your AI model, handle it gracefully.
-
-### [**acidic**](https://github.com/storm-software/acidic)
-
-🧪 Acidic is a modeling tool that can be used to describe and generate code for API end points, database tables, type definitions, client components, and so much more!
 
 ### [**reaper**](https://github.com/storm-software/reaper)
 
