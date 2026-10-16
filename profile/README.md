@@ -27,7 +27,7 @@ This GitHub organization contains repositories that are officially maintained by
 
 ### [**mindctl**](https://github.com/storm-software/mindctl)
 
-An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate LLM based on the input prompt
+🧠​  An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate LLM based on the input prompt
 
 ### [**telepathic**](https://github.com/storm-software/telepathic)
 
