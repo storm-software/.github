@@ -27,11 +27,7 @@ This GitHub organization contains repositories that are officially maintained by
 
 ### [**mindctl**](https://github.com/storm-software/mindctl)
 
-An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate LLM based on the input prompt
-
-### [**telepathic**](https://github.com/storm-software/telepathic)
-
-🔮  Let your models read your mind
+🧠​  An LLM router that uses built-in logic and system 1 decision models to intelligently route requests to the appropriate LLM based on the input prompt
 
 ### [**power-plant**](https://github.com/storm-software/power-plant)
 
@@ -44,6 +40,10 @@ An LLM router that uses built-in logic and system 1 decision models to intellige
 ### [**stryke**](https://github.com/storm-software/stryke)
 
 🌩️  A repository containing TypeScript utility packages used by Storm Software
+
+### [**telepathic**](https://github.com/storm-software/telepathic)
+
+🔮  Let your models read your mind
 
 ### [**may-i**](https://github.com/storm-software/may-i)
 
